@@ -670,7 +670,7 @@
     "image": "images/weapons_takistan/melee/blade/akinaka/akinaka.jpg",
     "id": "dzobj_oe7gdf8lli",
     "dimensionsVisual": [
-      0.10,
+      0.1,
       0.44,
       0.19
     ],
@@ -781,7 +781,7 @@
   },
   {
     "objectName": "AlarmClock_Blue",
-    "inGameName": "AlarmClock_Blue",
+    "inGameName": "Raycast Scanner",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
@@ -803,7 +803,7 @@
   },
   {
     "objectName": "AlarmClock_Green",
-    "inGameName": "AlarmClock_Green",
+    "inGameName": "Raycast Scanner",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
@@ -825,7 +825,7 @@
   },
   {
     "objectName": "AlarmClock_Red",
-    "inGameName": "AlarmClock_Red",
+    "inGameName": "Raycast Scanner",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
@@ -2824,7 +2824,7 @@
   },
   {
     "objectName": "Anniversary_FireworksLauncher",
-    "inGameName": "Anniversary_FireworksLauncher",
+    "inGameName": "Raycast Scanner",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
@@ -5636,6 +5636,23 @@
     "imageUrl": "https://samsobjectfinder.com/images/characters/shoes/athleticshoes_grey/athleticshoes_grey.jpg"
   },
   {
+    "objectName": "Attack_flashlight_Heavy2",
+    "inGameName": "Raycast Scanner",
+    "category": "gear",
+    "modelType": "Config",
+    "path": "dz/gear/tools",
+    "usableOnConsole": true,
+    "searchTags": "gear, raycast, scanner, tools",
+    "image": "images/gear/tools/flashlight/flashlight.jpg",
+    "id": "dzobj_h90revw1oe",
+    "dimensionsVisual": [
+      0.2020903304219246,
+      0.06748092174530029,
+      0.06748086679726839
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/flashlight/flashlight.jpg"
+  },
+  {
     "objectName": "Attack2Bag_Black",
     "inGameName": "Long Haul Backpack",
     "category": "characters",
@@ -6113,6 +6130,23 @@
     "imageUrl": "https://samsobjectfinder.com/images/plants/bush/b_crataeguslaevigata_2s.p3d.jpg"
   },
   {
+    "objectName": "b_cycas_2s.p3d",
+    "inGameName": "b_cycas_2s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "cycas, plants, takistan, bush, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_cycas_2s/b_cycas_2s.jpg",
+    "id": "dzobj_ew437yk4x8",
+    "dimensionsVisual": [
+      2.719,
+      1.718,
+      3.017
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_cycas_2s/b_cycas_2s.jpg"
+  },
+  {
     "objectName": "b_fagussylvatica_1f_summer.p3d",
     "inGameName": "b_fagussylvatica_1f_summer.p3d",
     "category": "plants_bliss",
@@ -6147,6 +6181,74 @@
     "imageUrl": "https://samsobjectfinder.com/images/plants/tree/b_fagussylvatica_1f.p3d.jpg"
   },
   {
+    "objectName": "b_ficusbenjamina_2d.p3d",
+    "inGameName": "b_ficusbenjamina_2d",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "ficusbenjamina, plants, takistan, bush, weeping fig, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_ficusbenjamina_2d/b_ficusbenjamina_2d.jpg",
+    "id": "dzobj_ydqxhfzgo9",
+    "dimensionsVisual": [
+      3.377,
+      2.825,
+      3.202
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_ficusbenjamina_2d/b_ficusbenjamina_2d.jpg"
+  },
+  {
+    "objectName": "b_ficusbenjamina_2s.p3d",
+    "inGameName": "b_ficusbenjamina_2s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "ficusbenjamina, plants, takistan, bush, weeping fig, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_ficusbenjamina_2s/b_ficusbenjamina_2s.jpg",
+    "id": "dzobj_0upwtlzs5i",
+    "dimensionsVisual": [
+      5.622,
+      2.719,
+      5.615
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_ficusbenjamina_2s/b_ficusbenjamina_2s.jpg"
+  },
+  {
+    "objectName": "b_ficusbenjamina_2sb.p3d",
+    "inGameName": "b_ficusbenjamina_2sb",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "ficusbenjamina, 2sb, plants, takistan, bush, weeping fig, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_ficusbenjamina_2sb/b_ficusbenjamina_2sb.jpg",
+    "id": "dzobj_xa2e6cbn62",
+    "dimensionsVisual": [
+      5.244,
+      3.666,
+      6.758
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_ficusbenjamina_2sb/b_ficusbenjamina_2sb.jpg"
+  },
+  {
+    "objectName": "b_gardenia_1s.p3d",
+    "inGameName": "b_gardenia_1s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "gardenia, plants, takistan, bush, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_gardenia_1s/b_gardenia_1s.jpg",
+    "id": "dzobj_6t5tz9l3kq",
+    "dimensionsVisual": [
+      2.905,
+      1.901,
+      2.478
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_gardenia_1s/b_gardenia_1s.jpg"
+  },
+  {
     "objectName": "b_naked_2s.p3d",
     "inGameName": "b_naked_2s.p3d",
     "category": "plants",
@@ -6162,6 +6264,210 @@
       5.142519950866699
     ],
     "imageUrl": "https://samsobjectfinder.com/images/plants/bush/b_naked_2s.p3d.jpg"
+  },
+  {
+    "objectName": "b_neriumoleander_1d.p3d",
+    "inGameName": "b_neriumoleander_1d",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "neriumoleander, plants, takistan, bush, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_neriumoleander_1d/b_neriumoleander_1d.jpg",
+    "id": "dzobj_yayf1jd6rp",
+    "dimensionsVisual": [
+      2.672,
+      1.92,
+      2.609
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_neriumoleander_1d/b_neriumoleander_1d.jpg"
+  },
+  {
+    "objectName": "b_neriumoleander_1s.p3d",
+    "inGameName": "b_neriumoleander_1s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "neriumoleander, plants, takistan, bush, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_neriumoleander_1s/b_neriumoleander_1s.jpg",
+    "id": "dzobj_29lkjcixr6",
+    "dimensionsVisual": [
+      2.672,
+      1.841,
+      2.609
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_neriumoleander_1s/b_neriumoleander_1s.jpg"
+  },
+  {
+    "objectName": "b_neriumoleander_1sb.p3d",
+    "inGameName": "b_neriumoleander_1sb",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "neriumoleander, 1sb, plants, takistan, bush, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_neriumoleander_1sb/b_neriumoleander_1sb.jpg",
+    "id": "dzobj_takvw5uwiv",
+    "dimensionsVisual": [
+      2.672,
+      1.841,
+      2.609
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_neriumoleander_1sb/b_neriumoleander_1sb.jpg"
+  },
+  {
+    "objectName": "b_opuntiaficusindica_1s.p3d",
+    "inGameName": "b_opuntiaficusindica_1s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "opuntiaficusindica, plants, takistan, bush, prickly pear, cactus, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_opuntiaficusindica_1s/b_opuntiaficusindica_1s.jpg",
+    "id": "dzobj_b97um5h71i",
+    "dimensionsVisual": [
+      1.272,
+      1.654,
+      0.741
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_opuntiaficusindica_1s/b_opuntiaficusindica_1s.jpg"
+  },
+  {
+    "objectName": "b_opuntiaficusindica_1sb.p3d",
+    "inGameName": "b_opuntiaficusindica_1sb",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "opuntiaficusindica, 1sb, plants, takistan, bush, prickly pear, cactus, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_opuntiaficusindica_1sb/b_opuntiaficusindica_1sb.jpg",
+    "id": "dzobj_qdspqrhkvr",
+    "dimensionsVisual": [
+      0.563,
+      1.743,
+      0.638
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_opuntiaficusindica_1sb/b_opuntiaficusindica_1sb.jpg"
+  },
+  {
+    "objectName": "b_opuntiaficusindica_2s.p3d",
+    "inGameName": "b_opuntiaficusindica_2s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "opuntiaficusindica, plants, takistan, bush, prickly pear, cactus, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_opuntiaficusindica_2s/b_opuntiaficusindica_2s.jpg",
+    "id": "dzobj_tvhpduwx6w",
+    "dimensionsVisual": [
+      1.049,
+      2.516,
+      0.876
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_opuntiaficusindica_2s/b_opuntiaficusindica_2s.jpg"
+  },
+  {
+    "objectName": "b_opuntiaficusindica_2sb.p3d",
+    "inGameName": "b_opuntiaficusindica_2sb",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "opuntiaficusindica, 2sb, plants, takistan, bush, prickly pear, cactus, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_opuntiaficusindica_2sb/b_opuntiaficusindica_2sb.jpg",
+    "id": "dzobj_qy1lchuo1p",
+    "dimensionsVisual": [
+      1.636,
+      2.266,
+      1.41
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_opuntiaficusindica_2sb/b_opuntiaficusindica_2sb.jpg"
+  },
+  {
+    "objectName": "b_opuntiaficusindica_3s.p3d",
+    "inGameName": "b_opuntiaficusindica_3s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "opuntiaficusindica, plants, takistan, bush, prickly pear, cactus, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_opuntiaficusindica_3s/b_opuntiaficusindica_3s.jpg",
+    "id": "dzobj_jcydsif067",
+    "dimensionsVisual": [
+      2.309,
+      3.041,
+      2.014
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_opuntiaficusindica_3s/b_opuntiaficusindica_3s.jpg"
+  },
+  {
+    "objectName": "b_opuntiaficusindica_3sb.p3d",
+    "inGameName": "b_opuntiaficusindica_3sb",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "opuntiaficusindica, plants, takistan, bush, prickly pear, cactus, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_opuntiaficusindica_3sb/b_opuntiaficusindica_3sb.jpg",
+    "id": "dzobj_k7y2fqrmjo",
+    "dimensionsVisual": [
+      1.667,
+      3.673,
+      1.236
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_opuntiaficusindica_3sb/b_opuntiaficusindica_3sb.jpg"
+  },
+  {
+    "objectName": "b_peganumharmala_1s.p3d",
+    "inGameName": "b_peganumharmala_1s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "peganumharmala, plants, takistan, bush, syrian rue, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_peganumharmala_1s/b_peganumharmala_1s.jpg",
+    "id": "dzobj_bc7kw9ae06",
+    "dimensionsVisual": [
+      1.496,
+      1.217,
+      1.415
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_peganumharmala_1s/b_peganumharmala_1s.jpg"
+  },
+  {
+    "objectName": "b_peganumharmala_2s.p3d",
+    "inGameName": "b_peganumharmala_2s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "peganumharmala, plants, takistan, bush, syrian rue, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_peganumharmala_2s/b_peganumharmala_2s.jpg",
+    "id": "dzobj_5x8lbhhx05",
+    "dimensionsVisual": [
+      1.749,
+      1.633,
+      1.692
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_peganumharmala_2s/b_peganumharmala_2s.jpg"
+  },
+  {
+    "objectName": "b_peganumharmala_2sb.p3d",
+    "inGameName": "b_peganumharmala_2sb",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "peganumharmala, 2sb, plants, takistan, bush, syrian rue, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_peganumharmala_2sb/b_peganumharmala_2sb.jpg",
+    "id": "dzobj_1oi7pzjex4",
+    "dimensionsVisual": [
+      1.897,
+      1.402,
+      1.674
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_peganumharmala_2sb/b_peganumharmala_2sb.jpg"
   },
   {
     "objectName": "b_phragmitesaustralis_summer.p3d",
@@ -6349,6 +6655,23 @@
       1.4434360265731812
     ],
     "imageUrl": "https://samsobjectfinder.com/images/plants/tree/b_piceaabies_1fb.p3d.jpg"
+  },
+  {
+    "objectName": "b_pinusbrutia_1s.p3d",
+    "inGameName": "b_pinusbrutia_1s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "pinusbrutia, plants, takistan, bush, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/b_pinusbrutia_1s/b_pinusbrutia_1s.jpg",
+    "id": "dzobj_u77sxzwo8x",
+    "dimensionsVisual": [
+      4.455,
+      3.274,
+      4.863
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/b_pinusbrutia_1s/b_pinusbrutia_1s.jpg"
   },
   {
     "objectName": "b_prunusspinosa_1s_summer.p3d",
@@ -11538,6 +11861,57 @@
     "imageUrl": "https://samsobjectfinder.com/images/plants/clutter/c_lolium.p3d.jpg"
   },
   {
+    "objectName": "c_muscarineglectum_1s.p3d",
+    "inGameName": "c_muscarineglectum_1s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "muscarineglectum, plants, takistan, clutter, grape hyacinth, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_muscarineglectum_1s/c_muscarineglectum_1s.jpg",
+    "id": "dzobj_8iedqtsr4d",
+    "dimensionsVisual": [
+      0.239,
+      0.29,
+      0.142
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_muscarineglectum_1s/c_muscarineglectum_1s.jpg"
+  },
+  {
+    "objectName": "c_muscarineglectum_1sb.p3d",
+    "inGameName": "c_muscarineglectum_1sb",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "muscarineglectum, 1sb, plants, takistan, clutter, grape hyacinth, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_muscarineglectum_1sb/c_muscarineglectum_1sb.jpg",
+    "id": "dzobj_99i6bghrc7",
+    "dimensionsVisual": [
+      0.197,
+      0.224,
+      0.123
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_muscarineglectum_1sb/c_muscarineglectum_1sb.jpg"
+  },
+  {
+    "objectName": "c_muscarineglectum_1sc.p3d",
+    "inGameName": "c_muscarineglectum_1sc",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "muscarineglectum, plants, takistan, clutter, grape hyacinth, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_muscarineglectum_1sc/c_muscarineglectum_1sc.jpg",
+    "id": "dzobj_k8p05m04nf",
+    "dimensionsVisual": [
+      0.16,
+      0.174,
+      0.083
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_muscarineglectum_1sc/c_muscarineglectum_1sc.jpg"
+  },
+  {
     "objectName": "c_piceacluster.p3d",
     "inGameName": "c_piceacluster.p3d",
     "category": "plants_sakhal",
@@ -11776,6 +12150,720 @@
     "imageUrl": "https://samsobjectfinder.com/images/plants/clutter/c_taraxacum.p3d.jpg"
   },
   {
+    "objectName": "c_tkalpinegrass_clump.p3d",
+    "inGameName": "c_tkalpinegrass_clump",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkalpinegrass, clump, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkalpinegrass_clump/c_tkalpinegrass_clump.jpg",
+    "id": "dzobj_qo7h4k0hq8",
+    "dimensionsVisual": [
+      6.767,
+      3.63,
+      6.623
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkalpinegrass_clump/c_tkalpinegrass_clump.jpg"
+  },
+  {
+    "objectName": "c_tkalpinegrass_nohead.p3d",
+    "inGameName": "c_tkalpinegrass_nohead",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkalpinegrass, nohead, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkalpinegrass_nohead/c_tkalpinegrass_nohead.jpg",
+    "id": "dzobj_cgita3t4s1",
+    "dimensionsVisual": [
+      6.307,
+      2.533,
+      6.32
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkalpinegrass_nohead/c_tkalpinegrass_nohead.jpg"
+  },
+  {
+    "objectName": "c_tkalpinegrass.p3d",
+    "inGameName": "c_tkalpinegrass",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkalpinegrass, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkalpinegrass/c_tkalpinegrass.jpg",
+    "id": "dzobj_ysixyw9jnh",
+    "dimensionsVisual": [
+      6.767,
+      3.839,
+      7.139
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkalpinegrass/c_tkalpinegrass.jpg"
+  },
+  {
+    "objectName": "c_tkbluegrass_clumps.p3d",
+    "inGameName": "c_tkbluegrass_clumps",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkbluegrass, clumps, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkbluegrass_clumps/c_tkbluegrass_clumps.jpg",
+    "id": "dzobj_dtb78um13y",
+    "dimensionsVisual": [
+      2.965,
+      1.553,
+      2.1
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkbluegrass_clumps/c_tkbluegrass_clumps.jpg"
+  },
+  {
+    "objectName": "c_tkbluegrass_nohead_clumps.p3d",
+    "inGameName": "c_tkbluegrass_nohead_clumps",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkbluegrass, nohead, clumps, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkbluegrass_nohead_clumps/c_tkbluegrass_nohead_clumps.jpg",
+    "id": "dzobj_ucon1w4vxy",
+    "dimensionsVisual": [
+      3.038,
+      1.553,
+      4.592
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkbluegrass_nohead_clumps/c_tkbluegrass_nohead_clumps.jpg"
+  },
+  {
+    "objectName": "c_tkbluegrass_nohead_small.p3d",
+    "inGameName": "c_tkbluegrass_nohead_small",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkbluegrass, nohead, small, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkbluegrass_nohead_small/c_tkbluegrass_nohead_small.jpg",
+    "id": "dzobj_ixajkdcs9i",
+    "dimensionsVisual": [
+      2.209,
+      1.891,
+      1.222
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkbluegrass_nohead_small/c_tkbluegrass_nohead_small.jpg"
+  },
+  {
+    "objectName": "c_tkbluegrass_nohead.p3d",
+    "inGameName": "c_tkbluegrass_nohead",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkbluegrass, nohead, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkbluegrass_nohead/c_tkbluegrass_nohead.jpg",
+    "id": "dzobj_23i5e2uhfz",
+    "dimensionsVisual": [
+      2.712,
+      2.123,
+      2.656
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkbluegrass_nohead/c_tkbluegrass_nohead.jpg"
+  },
+  {
+    "objectName": "c_tkbluegrass_small.p3d",
+    "inGameName": "c_tkbluegrass_small",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkbluegrass, small, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkbluegrass_small/c_tkbluegrass_small.jpg",
+    "id": "dzobj_qsrq5bf3l0",
+    "dimensionsVisual": [
+      2.209,
+      1.891,
+      1.222
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkbluegrass_small/c_tkbluegrass_small.jpg"
+  },
+  {
+    "objectName": "c_tkbluegrass.p3d",
+    "inGameName": "c_tkbluegrass",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkbluegrass, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkbluegrass/c_tkbluegrass.jpg",
+    "id": "dzobj_mm0oln9lzu",
+    "dimensionsVisual": [
+      2.712,
+      2.123,
+      2.656
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkbluegrass/c_tkbluegrass.jpg"
+  },
+  {
+    "objectName": "c_tkclustered_wheatgrass_m.p3d",
+    "inGameName": "c_tkclustered_wheatgrass_m",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkclustered, wheatgrass, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkclustered_wheatgrass_m/c_tkclustered_wheatgrass_m.jpg",
+    "id": "dzobj_9p8a8pnhws",
+    "dimensionsVisual": [
+      4.128,
+      2.333,
+      3.918
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkclustered_wheatgrass_m/c_tkclustered_wheatgrass_m.jpg"
+  },
+  {
+    "objectName": "c_tkclustered_wheatgrass_s.p3d",
+    "inGameName": "c_tkclustered_wheatgrass_s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkclustered, wheatgrass, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkclustered_wheatgrass_s/c_tkclustered_wheatgrass_s.jpg",
+    "id": "dzobj_md71a5p94k",
+    "dimensionsVisual": [
+      2.491,
+      1.834,
+      2.689
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkclustered_wheatgrass_s/c_tkclustered_wheatgrass_s.jpg"
+  },
+  {
+    "objectName": "c_tkclustered_wheatgrass.p3d",
+    "inGameName": "c_tkclustered_wheatgrass",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkclustered, wheatgrass, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkclustered_wheatgrass/c_tkclustered_wheatgrass.jpg",
+    "id": "dzobj_m0uig72be2",
+    "dimensionsVisual": [
+      3.946,
+      2.333,
+      4.136
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkclustered_wheatgrass/c_tkclustered_wheatgrass.jpg"
+  },
+  {
+    "objectName": "c_tkcrested_wheatgrass_m.p3d",
+    "inGameName": "c_tkcrested_wheatgrass_m",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkcrested, wheatgrass, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkcrested_wheatgrass_m/c_tkcrested_wheatgrass_m.jpg",
+    "id": "dzobj_y4x0e45q7x",
+    "dimensionsVisual": [
+      4.128,
+      2.333,
+      3.918
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkcrested_wheatgrass_m/c_tkcrested_wheatgrass_m.jpg"
+  },
+  {
+    "objectName": "c_tkcrested_wheatgrass_s.p3d",
+    "inGameName": "c_tkcrested_wheatgrass_s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkcrested, wheatgrass, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkcrested_wheatgrass_s/c_tkcrested_wheatgrass_s.jpg",
+    "id": "dzobj_rzyntywton",
+    "dimensionsVisual": [
+      2.491,
+      1.834,
+      2.689
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkcrested_wheatgrass_s/c_tkcrested_wheatgrass_s.jpg"
+  },
+  {
+    "objectName": "c_tkcrested_wheatgrass.p3d",
+    "inGameName": "c_tkcrested_wheatgrass",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkcrested, wheatgrass, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkcrested_wheatgrass/c_tkcrested_wheatgrass.jpg",
+    "id": "dzobj_9tudr9jn95",
+    "dimensionsVisual": [
+      3.946,
+      2.333,
+      4.136
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkcrested_wheatgrass/c_tkcrested_wheatgrass.jpg"
+  },
+  {
+    "objectName": "c_tkdesertgrass_small.p3d",
+    "inGameName": "c_tkdesertgrass_small",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkdesertgrass, small, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkdesertgrass_small/c_tkdesertgrass_small.jpg",
+    "id": "dzobj_toizrhm8ei",
+    "dimensionsVisual": [
+      1.48,
+      1.421,
+      1.573
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkdesertgrass_small/c_tkdesertgrass_small.jpg"
+  },
+  {
+    "objectName": "c_tkdesertgrass_small2.p3d",
+    "inGameName": "c_tkdesertgrass_small2",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkdesertgrass, small2, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkdesertgrass_small2/c_tkdesertgrass_small2.jpg",
+    "id": "dzobj_5kqffjoxlh",
+    "dimensionsVisual": [
+      3.153,
+      1.318,
+      2.913
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkdesertgrass_small2/c_tkdesertgrass_small2.jpg"
+  },
+  {
+    "objectName": "c_tkdesertgrass_wide.p3d",
+    "inGameName": "c_tkdesertgrass_wide",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkdesertgrass, wide, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkdesertgrass_wide/c_tkdesertgrass_wide.jpg",
+    "id": "dzobj_2nwuspb0la",
+    "dimensionsVisual": [
+      4.856,
+      2.928,
+      5.037
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkdesertgrass_wide/c_tkdesertgrass_wide.jpg"
+  },
+  {
+    "objectName": "c_tkdesertgrass.p3d",
+    "inGameName": "c_tkdesertgrass",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkdesertgrass, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkdesertgrass/c_tkdesertgrass.jpg",
+    "id": "dzobj_9yda0ndtm2",
+    "dimensionsVisual": [
+      5.451,
+      2.49,
+      4.055
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkdesertgrass/c_tkdesertgrass.jpg"
+  },
+  {
+    "objectName": "c_tkdrygrass_bunch.p3d",
+    "inGameName": "c_tkdrygrass_bunch",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkdrygrass, bunch, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkdrygrass_bunch/c_tkdrygrass_bunch.jpg",
+    "id": "dzobj_qyglb7h5up",
+    "dimensionsVisual": [
+      3.532,
+      1.265,
+      4.329
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkdrygrass_bunch/c_tkdrygrass_bunch.jpg"
+  },
+  {
+    "objectName": "c_tkdrygrass.p3d",
+    "inGameName": "c_tkdrygrass",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkdrygrass, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkdrygrass/c_tkdrygrass.jpg",
+    "id": "dzobj_hbooggl8f6",
+    "dimensionsVisual": [
+      3.131,
+      1.253,
+      2.728
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkdrygrass/c_tkdrygrass.jpg"
+  },
+  {
+    "objectName": "c_tkflower_white1.p3d",
+    "inGameName": "c_tkflower_white1",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkflower, white1, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkflower_white1/c_tkflower_white1.jpg",
+    "id": "dzobj_pmnibbqqpt",
+    "dimensionsVisual": [
+      0.385,
+      0.509,
+      0.417
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkflower_white1/c_tkflower_white1.jpg"
+  },
+  {
+    "objectName": "c_tkflower_white2.p3d",
+    "inGameName": "c_tkflower_white2",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkflower, white2, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkflower_white2/c_tkflower_white2.jpg",
+    "id": "dzobj_1q6fibduqn",
+    "dimensionsVisual": [
+      0.349,
+      0.663,
+      0.258
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkflower_white2/c_tkflower_white2.jpg"
+  },
+  {
+    "objectName": "c_tkgreengrass.p3d",
+    "inGameName": "c_tkgreengrass",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkgreengrass, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkgreengrass/c_tkgreengrass.jpg",
+    "id": "dzobj_cfcuk00ld0",
+    "dimensionsVisual": [
+      2.015,
+      0.702,
+      2.641
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkgreengrass/c_tkgreengrass.jpg"
+  },
+  {
+    "objectName": "c_tkgreenplant_small.p3d",
+    "inGameName": "c_tkgreenplant_small",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkgreenplant, small, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkgreenplant_small/c_tkgreenplant_small.jpg",
+    "id": "dzobj_osny2p5moh",
+    "dimensionsVisual": [
+      0.735,
+      0.922,
+      0.62
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkgreenplant_small/c_tkgreenplant_small.jpg"
+  },
+  {
+    "objectName": "c_tkgreenshrub.p3d",
+    "inGameName": "c_tkgreenshrub",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkgreenshrub, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkgreenshrub/c_tkgreenshrub.jpg",
+    "id": "dzobj_auvlbr3dvz",
+    "dimensionsVisual": [
+      2.439,
+      1.205,
+      2.906
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkgreenshrub/c_tkgreenshrub.jpg"
+  },
+  {
+    "objectName": "c_tkpinebranch_fallen1.p3d",
+    "inGameName": "c_tkpinebranch_fallen1",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkpinebranch, fallen1, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkpinebranch_fallen1/c_tkpinebranch_fallen1.jpg",
+    "id": "dzobj_ybahtaxm6n",
+    "dimensionsVisual": [
+      3.162,
+      0.735,
+      2.955
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkpinebranch_fallen1/c_tkpinebranch_fallen1.jpg"
+  },
+  {
+    "objectName": "c_tkpinebranch_fallen2.p3d",
+    "inGameName": "c_tkpinebranch_fallen2",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkpinebranch, fallen2, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkpinebranch_fallen2/c_tkpinebranch_fallen2.jpg",
+    "id": "dzobj_yn0y79w0fw",
+    "dimensionsVisual": [
+      2.988,
+      0.828,
+      3.026
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkpinebranch_fallen2/c_tkpinebranch_fallen2.jpg"
+  },
+  {
+    "objectName": "c_tkpinebranch_fallen3.p3d",
+    "inGameName": "c_tkpinebranch_fallen3",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkpinebranch, fallen3, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkpinebranch_fallen3/c_tkpinebranch_fallen3.jpg",
+    "id": "dzobj_wp7rhs4n8d",
+    "dimensionsVisual": [
+      2.038,
+      0.577,
+      2.836
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkpinebranch_fallen3/c_tkpinebranch_fallen3.jpg"
+  },
+  {
+    "objectName": "c_tkplant_dock.p3d",
+    "inGameName": "c_tkplant_dock",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkplant, dock, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkplant_dock/c_tkplant_dock.jpg",
+    "id": "dzobj_ifv5agkv2t",
+    "dimensionsVisual": [
+      0.636,
+      1.144,
+      0.586
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkplant_dock/c_tkplant_dock.jpg"
+  },
+  {
+    "objectName": "c_tkplant_mullein.p3d",
+    "inGameName": "c_tkplant_mullein",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkplant, mullein, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "",
+    "id": "dzobj_865nkuzlqh",
+    "dimensionsVisual": [
+      1.022,
+      1.604,
+      1.194
+    ],
+    "imageUrl": "https://github.com/KingAlobar/image_stuff/blob/main/c_tkplant_mullein.png"
+  },
+  {
+    "objectName": "c_tkthistleyellowshrub.p3d",
+    "inGameName": "c_tkthistleyellowshrub",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkthistleyellowshrub, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkthistleyellowshrub/c_tkthistleyellowshrub.jpg",
+    "id": "dzobj_brmtwamte4",
+    "dimensionsVisual": [
+      0.935,
+      0.444,
+      0.78
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkthistleyellowshrub/c_tkthistleyellowshrub.jpg"
+  },
+  {
+    "objectName": "c_tkthorngreen.p3d",
+    "inGameName": "c_tkthorngreen",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkthorngreen, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkthorngreen/c_tkthorngreen.jpg",
+    "id": "dzobj_ijyq8giot4",
+    "dimensionsVisual": [
+      2.261,
+      1.185,
+      2.261
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkthorngreen/c_tkthorngreen.jpg"
+  },
+  {
+    "objectName": "c_tkthornkhaki.p3d",
+    "inGameName": "c_tkthornkhaki",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkthornkhaki, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkthornkhaki/c_tkthornkhaki.jpg",
+    "id": "dzobj_h4p76ns5k5",
+    "dimensionsVisual": [
+      2.261,
+      1.185,
+      2.261
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkthornkhaki/c_tkthornkhaki.jpg"
+  },
+  {
+    "objectName": "c_tkweedbrowntall.p3d",
+    "inGameName": "c_tkweedbrowntall",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkweedbrowntall, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkweedbrowntall/c_tkweedbrowntall.jpg",
+    "id": "dzobj_imt0fta7qv",
+    "dimensionsVisual": [
+      0.949,
+      1.018,
+      0.959
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkweedbrowntall/c_tkweedbrowntall.jpg"
+  },
+  {
+    "objectName": "c_tkweedgreentall.p3d",
+    "inGameName": "c_tkweedgreentall",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkweedgreentall, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkweedgreentall/c_tkweedgreentall.jpg",
+    "id": "dzobj_n5d73rcpv3",
+    "dimensionsVisual": [
+      0.839,
+      0.796,
+      1.23
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkweedgreentall/c_tkweedgreentall.jpg"
+  },
+  {
+    "objectName": "c_tkwindgrass_m.p3d",
+    "inGameName": "c_tkwindgrass_m",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkwindgrass, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkwindgrass_m/c_tkwindgrass_m.jpg",
+    "id": "dzobj_ydgja0zvkn",
+    "dimensionsVisual": [
+      2.418,
+      2.282,
+      2.398
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkwindgrass_m/c_tkwindgrass_m.jpg"
+  },
+  {
+    "objectName": "c_tkwindgrass_single.p3d",
+    "inGameName": "c_tkwindgrass_single",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkwindgrass, single, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "",
+    "id": "dzobj_nr722qx0va",
+    "dimensionsVisual": [
+      1.222,
+      1.21,
+      0.983
+    ],
+    "imageUrl": "https://github.com/KingAlobar/image_stuff/blob/main/c_tkwindgrass_single.png"
+  },
+  {
+    "objectName": "c_tkwindgrass.p3d",
+    "inGameName": "c_tkwindgrass",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tkwindgrass, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tkwindgrass/c_tkwindgrass.jpg",
+    "id": "dzobj_mdwcqucaiy",
+    "dimensionsVisual": [
+      3.149,
+      2.616,
+      2.988
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tkwindgrass/c_tkwindgrass.jpg"
+  },
+  {
+    "objectName": "c_tulipaclusiana_1s.p3d",
+    "inGameName": "c_tulipaclusiana_1s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tulipaclusiana, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tulipaclusiana_1s/c_tulipaclusiana_1s.jpg",
+    "id": "dzobj_zsm0m3arl9",
+    "dimensionsVisual": [
+      0.376,
+      0.52,
+      0.328
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tulipaclusiana_1s/c_tulipaclusiana_1s.jpg"
+  },
+  {
+    "objectName": "c_tulipaclusiana_1sb.p3d",
+    "inGameName": "c_tulipaclusiana_1sb",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tulipaclusiana, 1sb, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tulipaclusiana_1sb/c_tulipaclusiana_1sb.jpg",
+    "id": "dzobj_om4qn5m78k",
+    "dimensionsVisual": [
+      0.37,
+      0.515,
+      0.339
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tulipaclusiana_1sb/c_tulipaclusiana_1sb.jpg"
+  },
+  {
+    "objectName": "c_tulipaclusiana_1sc.p3d",
+    "inGameName": "c_tulipaclusiana_1sc",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "tulipaclusiana, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_tulipaclusiana_1sc/c_tulipaclusiana_1sc.jpg",
+    "id": "dzobj_pqj4ii7ame",
+    "dimensionsVisual": [
+      0.272,
+      0.39,
+      0.258
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_tulipaclusiana_1sc/c_tulipaclusiana_1sc.jpg"
+  },
+  {
     "objectName": "c_twigs_b.p3d",
     "inGameName": "c_twigs_b.p3d",
     "category": "plants",
@@ -11961,6 +13049,40 @@
       1.495110273361206
     ],
     "imageUrl": "https://samsobjectfinder.com/images/plants/clutter/c_vaccinium.p3d.jpg"
+  },
+  {
+    "objectName": "c_viciasativa_1s.p3d",
+    "inGameName": "c_viciasativa_1s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "viciasativa, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_viciasativa_1s/c_viciasativa_1s.jpg",
+    "id": "dzobj_xncprin4tk",
+    "dimensionsVisual": [
+      0.372,
+      0.508,
+      0.497
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_viciasativa_1s/c_viciasativa_1s.jpg"
+  },
+  {
+    "objectName": "c_viciasativa_1sb.p3d",
+    "inGameName": "c_viciasativa_1sb",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "viciasativa, 1sb, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/c_viciasativa_1sb/c_viciasativa_1sb.jpg",
+    "id": "dzobj_sj12eayaax",
+    "dimensionsVisual": [
+      0.805,
+      0.561,
+      0.624
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/c_viciasativa_1sb/c_viciasativa_1sb.jpg"
   },
   {
     "objectName": "c_volcanicstones_red.p3d",
@@ -30626,7 +31748,7 @@
     "id": "dzobj_rkdlk1edcy",
     "dimensionsVisual": [
       5.4,
-      5.0,
+      5,
       4.1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/specific/bordercrossing/land_border_02_guardhouse/land_border_02_guardhouse.jpg"
@@ -30729,7 +31851,7 @@
     "dimensionsVisual": [
       19.34,
       10.43,
-      27.30
+      27.3
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/military/bunkers/land_bunker_shelter_medical/land_bunker_shelter_medical.jpg"
   },
@@ -30746,7 +31868,7 @@
     "dimensionsVisual": [
       19.34,
       10.43,
-      27.30
+      27.3
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/military/bunkers/land_bunker_shelter_office/land_bunker_shelter_office.jpg"
   },
@@ -30763,7 +31885,7 @@
     "dimensionsVisual": [
       19.34,
       10.43,
-      27.30
+      27.3
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/military/bunkers/land_bunker_shelter_storage/land_bunker_shelter_storage.jpg"
   },
@@ -31279,7 +32401,7 @@
     "dimensionsVisual": [
       22.73,
       16.07,
-      22.70
+      22.7
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/specific/castle/land_castle_bastion3_desert/land_castle_bastion3_desert.jpg"
   },
@@ -34759,9 +35881,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_1m1/land_house_1m1.jpg",
     "id": "dzobj_bvdhvopven",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      16.0
+      15,
+      6,
+      16
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_1m1/land_house_1m1.jpg"
   },
@@ -34776,9 +35898,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_1m2/land_house_1m2.jpg",
     "id": "dzobj_krigofzsz4",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      16.0
+      15,
+      6,
+      16
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_1m2/land_house_1m2.jpg"
   },
@@ -34810,9 +35932,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_1m2_dam2/land_house_1m2_dam2.jpg",
     "id": "dzobj_hthadtfrdx",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      16.0
+      15,
+      6,
+      16
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_1m2_dam2/land_house_1m2_dam2.jpg"
   },
@@ -34827,9 +35949,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_1m3/land_house_1m3.jpg",
     "id": "dzobj_2kf8k2ndwp",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      16.0
+      15,
+      6,
+      16
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_1m3/land_house_1m3.jpg"
   },
@@ -34861,9 +35983,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_1m3_dam2/land_house_1m3_dam2.jpg",
     "id": "dzobj_9jxawkz0jv",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      16.0
+      15,
+      6,
+      16
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_1m3_dam2/land_house_1m3_dam2.jpg"
   },
@@ -34878,9 +36000,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_1m4/land_house_1m4.jpg",
     "id": "dzobj_uljw4taroh",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      16.0
+      15,
+      6,
+      16
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_1m4/land_house_1m4.jpg"
   },
@@ -34912,9 +36034,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_1m4_dam2/land_house_1m4_dam2.jpg",
     "id": "dzobj_xldmy38bha",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      16.0
+      15,
+      6,
+      16
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_1m4_dam2/land_house_1m4_dam2.jpg"
   },
@@ -34929,9 +36051,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_1m4_dam3/land_house_1m4_dam3.jpg",
     "id": "dzobj_6fq1hwqtag",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      16.0
+      15,
+      6,
+      16
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_1m4_dam3/land_house_1m4_dam3.jpg"
   },
@@ -34946,9 +36068,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_1m5/land_house_1m5.jpg",
     "id": "dzobj_v3nne2jc2m",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      16.0
+      15,
+      6,
+      16
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_1m5/land_house_1m5.jpg"
   },
@@ -34963,9 +36085,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_1s1/land_house_1s1.jpg",
     "id": "dzobj_xyncfhauhj",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      16.0
+      15,
+      6,
+      16
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_1s1/land_house_1s1.jpg"
   },
@@ -34980,9 +36102,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_1s2/land_house_1s2.jpg",
     "id": "dzobj_88w7q3n0al",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      16.0
+      15,
+      6,
+      16
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_1s2/land_house_1s2.jpg"
   },
@@ -34997,9 +36119,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_1s2_dam2/land_house_1s2_dam2.jpg",
     "id": "dzobj_loimaxsyyr",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      16.0
+      15,
+      6,
+      16
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_1s2_dam2/land_house_1s2_dam2.jpg"
   },
@@ -35917,9 +37039,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_2m1/land_house_2m1.jpg",
     "id": "dzobj_vgomm2yjgu",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      10.0
+      15,
+      6,
+      10
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_2m1/land_house_2m1.jpg"
   },
@@ -35951,9 +37073,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_2m1_dam2/land_house_2m1_dam2.jpg",
     "id": "dzobj_aah7qoc84j",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      10.0
+      15,
+      6,
+      10
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_2m1_dam2/land_house_2m1_dam2.jpg"
   },
@@ -35968,9 +37090,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_2m2/land_house_2m2.jpg",
     "id": "dzobj_2ip26wgxlf",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      15.0
+      15,
+      6,
+      15
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_2m2/land_house_2m2.jpg"
   },
@@ -36002,9 +37124,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_2m2_dam2/land_house_2m2_dam2.jpg",
     "id": "dzobj_67z8112o3g",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      15.0
+      15,
+      6,
+      15
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_2m2_dam2/land_house_2m2_dam2.jpg"
   },
@@ -36036,9 +37158,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_2s1/land_house_2s1.jpg",
     "id": "dzobj_zjopkz97u3",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      15.0
+      15,
+      6,
+      15
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_2s1/land_house_2s1.jpg"
   },
@@ -36087,9 +37209,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_2s1_dam3/land_house_2s1_dam3.jpg",
     "id": "dzobj_e71qxm2x3t",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      15.0
+      15,
+      6,
+      15
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_2s1_dam3/land_house_2s1_dam3.jpg"
   },
@@ -36121,9 +37243,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_2s2/land_house_2s2.jpg",
     "id": "dzobj_1rga6kverc",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      15.0
+      15,
+      6,
+      15
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_2s2/land_house_2s2.jpg"
   },
@@ -36384,9 +37506,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_3s1/land_house_3s1.jpg",
     "id": "dzobj_xudiwkkz5x",
     "dimensionsVisual": [
-      15.0,
-      6.0,
-      15.0
+      15,
+      6,
+      15
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_3s1/land_house_3s1.jpg"
   },
@@ -36435,9 +37557,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_3s1_dam3/land_house_3s1_dam3.jpg",
     "id": "dzobj_7d3rxhtdzl",
     "dimensionsVisual": [
-      15.0,
-      16.0,
-      15.0
+      15,
+      16,
+      15
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_3s1_dam3/land_house_3s1_dam3.jpg"
   },
@@ -36452,9 +37574,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_3s2/land_house_3s2.jpg",
     "id": "dzobj_0f04ekbye2",
     "dimensionsVisual": [
-      15.0,
-      14.0,
-      20.0
+      15,
+      14,
+      20
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_3s2/land_house_3s2.jpg"
   },
@@ -36486,9 +37608,9 @@
     "image": "images/structures_takistan/residential/houses/land_house_3s2_dam2/land_house_3s2_dam2.jpg",
     "id": "dzobj_dvsi13hh12",
     "dimensionsVisual": [
-      15.0,
-      14.0,
-      20.0
+      15,
+      14,
+      20
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/residential/houses/land_house_3s2_dam2/land_house_3s2_dam2.jpg"
   },
@@ -45221,7 +46343,7 @@
     "id": "dzobj_zomc16nctg",
     "dimensionsVisual": [
       17.134281158447266,
-      11.0,
+      11,
       28.422399520874023
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures/military/tisy/land_tisy_kitchenroom.jpg"
@@ -59366,6 +60488,57 @@
     "imageUrl": "https://samsobjectfinder.com/images/plants/clutter/p_heracleum.p3d.jpg"
   },
   {
+    "objectName": "p_papaver_2s.p3d",
+    "inGameName": "p_papaver_2s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "papaver, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/p_papaver_2s/p_papaver_2s.jpg",
+    "id": "dzobj_wo5kd2nk87",
+    "dimensionsVisual": [
+      1.562,
+      0.86,
+      1.337
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/p_papaver_2s/p_papaver_2s.jpg"
+  },
+  {
+    "objectName": "p_papaver_3s.p3d",
+    "inGameName": "p_papaver_3s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "papaver, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/p_papaver_3s/p_papaver_3s.jpg",
+    "id": "dzobj_as54f6m3td",
+    "dimensionsVisual": [
+      1.557,
+      0.923,
+      1.821
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/p_papaver_3s/p_papaver_3s.jpg"
+  },
+  {
+    "objectName": "p_papaver.p3d",
+    "inGameName": "p_papaver",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/clutter",
+    "usableOnConsole": false,
+    "searchTags": "papaver, plants, takistan, clutter, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/clutter/p_papaver/p_papaver.jpg",
+    "id": "dzobj_7n813lm1jm",
+    "dimensionsVisual": [
+      1.727,
+      0.877,
+      2.087
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/clutter/p_papaver/p_papaver.jpg"
+  },
+  {
     "objectName": "p_phragmites.p3d",
     "inGameName": "p_phragmites.p3d",
     "category": "plants",
@@ -59398,6 +60571,57 @@
       1.1276988983154297
     ],
     "imageUrl": "https://samsobjectfinder.com/images/plants/clutter/p_urtica.p3d.jpg"
+  },
+  {
+    "objectName": "p_viciasativa_1s.p3d",
+    "inGameName": "p_viciasativa_1s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "viciasativa, plants, takistan, bush, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/p_viciasativa_1s/p_viciasativa_1s.jpg",
+    "id": "dzobj_wmqqek8n12",
+    "dimensionsVisual": [
+      1.128,
+      0.719,
+      1.108
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/p_viciasativa_1s/p_viciasativa_1s.jpg"
+  },
+  {
+    "objectName": "p_viciasativa_1sb.p3d",
+    "inGameName": "p_viciasativa_1sb",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "viciasativa, 1sb, plants, takistan, bush, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/p_viciasativa_1sb/p_viciasativa_1sb.jpg",
+    "id": "dzobj_f5mwhzmc6w",
+    "dimensionsVisual": [
+      1.3,
+      0.667,
+      1.214
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/p_viciasativa_1sb/p_viciasativa_1sb.jpg"
+  },
+  {
+    "objectName": "p_viciasativa_1sc.p3d",
+    "inGameName": "p_viciasativa_1sc",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/bush",
+    "usableOnConsole": false,
+    "searchTags": "viciasativa, plants, takistan, bush, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/bush/p_viciasativa_1sc/p_viciasativa_1sc.jpg",
+    "id": "dzobj_0dtv8cdhvt",
+    "dimensionsVisual": [
+      1.037,
+      0.412,
+      0.925
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/bush/p_viciasativa_1sc/p_viciasativa_1sc.jpg"
   },
   {
     "objectName": "P1",
@@ -60382,9 +61606,9 @@
     "image": "images/gear/consumables/pileofwoodenplanks/pileofwoodenplanks.jpg",
     "id": "dzobj_3vgjha594l",
     "dimensionsVisual": [
-      0.0,
-      2.0,
-      1.0
+      0,
+      2,
+      1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/gear/consumables/pileofwoodenplanks/pileofwoodenplanks.jpg"
   },
@@ -66003,13 +67227,13 @@
   },
   {
     "objectName": "ShippingContainerKeys_Blue",
-    "inGameName": "Container Key Blue",
+    "inGameName": "Shovel",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
     "usableOnConsole": true,
     "searchTags": "sakhal, quest, locked",
-    "image": "image_stuff/blob/main/ShippingContainerKeys_Blue.png",
+    "image": "images/gear/tools/shovel/shovel.jpg",
     "id": "dzobj_7nn2mguacw",
     "linked-variant": [
       "dzobj_jwzviqzqli",
@@ -66022,34 +67246,34 @@
       0.061814216896891594,
       0.027204936370253563
     ],
-    "imageUrl": "https://raw.githubusercontent.com/KingAlobar/image_stuff/main/ShippingContainerKeys_Blue.png"
+    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shovel/shovel.jpg"
   },
   {
     "objectName": "ShippingContainerKeys_Green",
-    "inGameName": "Container Key Green",
+    "inGameName": "Container Key",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
     "usableOnConsole": true,
     "searchTags": "shippingcontainerkeys, green, dz, gear, tools, v1.30-badlands",
-    "image": "image_stuff/blob/main/ShippingContainerKeys_Green.png",
+    "image": "images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg",
     "id": "dzobj_r8h8wtcc2s",
     "dimensionsVisual": [
       0.052583541721105576,
       0.061814216896891594,
       0.027204936370253563
     ],
-    "imageUrl": "https://raw.githubusercontent.com/KingAlobar/image_stuff/main/ShippingContainerKeys_Green.png"
+    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg"
   },
   {
     "objectName": "ShippingContainerKeys_Orange",
-    "inGameName": "Container Key Orange",
+    "inGameName": "Shovel",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
     "usableOnConsole": true,
     "searchTags": "sakhal, quest, locked",
-    "image": "image_stuff/blob/main/ShippingContainerKeys_Orange.png",
+    "image": "images/gear/tools/shovel/shovel.jpg",
     "id": "dzobj_n1al4o0a2p",
     "linked-variant": [
       "dzobj_7nn2mguacw",
@@ -66062,17 +67286,17 @@
       0.061814216896891594,
       0.027204936370253563
     ],
-    "imageUrl": "https://raw.githubusercontent.com/KingAlobar/image_stuff/main/ShippingContainerKeys_Orange.png"
+    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shovel/shovel.jpg"
   },
   {
     "objectName": "ShippingContainerKeys_Red",
-    "inGameName": "Container Key Red",
+    "inGameName": "Shovel",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
     "usableOnConsole": true,
     "searchTags": "sakhal, quest, locked",
-    "image": "image_stuff/blob/main/ShippingContainerKeys_Red.png",
+    "image": "images/gear/tools/shovel/shovel.jpg",
     "id": "dzobj_w4b3u5ip40",
     "linked-variant": [
       "dzobj_7nn2mguacw",
@@ -66085,17 +67309,17 @@
       0.061814216896891594,
       0.027204936370253563
     ],
-    "imageUrl": "https://raw.githubusercontent.com/KingAlobar/image_stuff/main/ShippingContainerKeys_Red.png"
+    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shovel/shovel.jpg"
   },
   {
     "objectName": "ShippingContainerKeys_Yellow",
-    "inGameName": "Container Key Yellow",
+    "inGameName": "Shovel",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
     "usableOnConsole": true,
     "searchTags": "sakhal, quest, locked",
-    "image": "image_stuff/blob/main/ShippingContainerKeys_Yellow.png",
+    "image": "images/gear/tools/shovel/shovel.jpg",
     "id": "dzobj_jwzviqzqli",
     "linked-variant": [
       "dzobj_7nn2mguacw",
@@ -66108,7 +67332,7 @@
       0.061814216896891594,
       0.027204936370253563
     ],
-    "imageUrl": "https://raw.githubusercontent.com/KingAlobar/image_stuff/main/ShippingContainerKeys_Yellow.png"
+    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shovel/shovel.jpg"
   },
   {
     "objectName": "Shirt_BlueCheck",
@@ -83228,7 +84452,7 @@
     "image": "images/structures_takistan/props/graffiti/staticobj_graffiti_arabic_01/staticobj_graffiti_arabic_01.jpg",
     "id": "dzobj_gsc4bimja0",
     "dimensionsVisual": [
-      1.973628798168647307,
+      1.9736287981686473,
       1.2615723609924316,
       2.0199332237243652
     ],
@@ -83245,7 +84469,7 @@
     "image": "images/structures_takistan/props/graffiti/staticobj_graffiti_arabic_02/staticobj_graffiti_arabic_02.jpg",
     "id": "dzobj_yn23q9jpgv",
     "dimensionsVisual": [
-      1.973628798168647307,
+      1.9736287981686473,
       1.2615723609924316,
       2.2654104232788086
     ],
@@ -83262,7 +84486,7 @@
     "image": "images/structures_takistan/props/graffiti/staticobj_graffiti_arabic_03/staticobj_graffiti_arabic_03.jpg",
     "id": "dzobj_r31rrs962t",
     "dimensionsVisual": [
-      1.973628798168647307,
+      1.9736287981686473,
       1.2615723609924316,
       1.8328166007995605
     ],
@@ -83279,7 +84503,7 @@
     "image": "images/structures_takistan/props/graffiti/staticobj_graffiti_arabic_ion_01/staticobj_graffiti_arabic_ion_01.jpg",
     "id": "dzobj_bpusiqq3pb",
     "dimensionsVisual": [
-      1.973628798168647307,
+      1.9736287981686473,
       1.2615723609924316,
       2.1043643951416016
     ],
@@ -83296,7 +84520,7 @@
     "image": "images/structures_takistan/props/graffiti/staticobj_graffiti_arabic_ion_02/staticobj_graffiti_arabic_ion_02.jpg",
     "id": "dzobj_ugzkcovbew",
     "dimensionsVisual": [
-      1.973628798168647307,
+      1.9736287981686473,
       1.2615723609924316,
       2.1043643951416016
     ],
@@ -83313,7 +84537,7 @@
     "image": "images/structures_takistan/props/graffiti/staticobj_graffiti_baderca/staticobj_graffiti_baderca.jpg",
     "id": "dzobj_ez43ykzukx",
     "dimensionsVisual": [
-      1.973628798168647307,
+      1.9736287981686473,
       1.9937255382537842,
       1.998399257659912
     ],
@@ -83381,7 +84605,7 @@
     "image": "images/structures_takistan/props/graffiti/staticobj_graffiti_frog/staticobj_graffiti_frog.jpg",
     "id": "dzobj_03xmp6pokv",
     "dimensionsVisual": [
-      1.973628798168647307,
+      1.9736287981686473,
       1.9937255382537842,
       4.010791778564453
     ],
@@ -83398,7 +84622,7 @@
     "image": "images/structures_takistan/props/graffiti/staticobj_graffiti_gasmask/staticobj_graffiti_gasmask.jpg",
     "id": "dzobj_9yx9z8l4ex",
     "dimensionsVisual": [
-      1.973628798168647307,
+      1.9736287981686473,
       1.9937255382537842,
       1.998399257659912
     ],
@@ -83415,7 +84639,7 @@
     "image": "images/structures_takistan/props/graffiti/staticobj_graffiti_hooded_woman/staticobj_graffiti_hooded_woman.jpg",
     "id": "dzobj_djaw7zpnxc",
     "dimensionsVisual": [
-      1.973628798168647307,
+      1.9736287981686473,
       1.9937255382537842,
       1.998399257659912
     ],
@@ -83432,7 +84656,7 @@
     "image": "images/structures_takistan/props/graffiti/staticobj_graffiti_iwashere/staticobj_graffiti_iwashere.jpg",
     "id": "dzobj_xe5i6v140l",
     "dimensionsVisual": [
-      1.973628798168647307,
+      1.9736287981686473,
       1.9937255382537842,
       5.978510856628418
     ],
@@ -83449,7 +84673,7 @@
     "image": "images/structures_takistan/props/graffiti/staticobj_graffiti_muffin/staticobj_graffiti_muffin.jpg",
     "id": "dzobj_jrdcxcyhy7",
     "dimensionsVisual": [
-      1.973628798168647307,
+      1.9736287981686473,
       1.9937255382537842,
       1.998399257659912
     ],
@@ -83466,7 +84690,7 @@
     "image": "images/structures_takistan/props/graffiti/staticobj_graffiti_nofriendlies/staticobj_graffiti_nofriendlies.jpg",
     "id": "dzobj_itfdc3kutt",
     "dimensionsVisual": [
-      1.973628798168647307,
+      1.9736287981686473,
       1.9937255382537842,
       8.957221031188965
     ],
@@ -83483,7 +84707,7 @@
     "image": "images/structures_takistan/props/graffiti/staticobj_graffiti_umbrella/staticobj_graffiti_umbrella.jpg",
     "id": "dzobj_v6ushbm2m3",
     "dimensionsVisual": [
-      1.973628798168647307,
+      1.9736287981686473,
       1.9937255382537842,
       1.998399257659912
     ],
@@ -83500,7 +84724,7 @@
     "image": "images/structures_takistan/props/graffiti/staticobj_graffiti_urmom/staticobj_graffiti_urmom.jpg",
     "id": "dzobj_38rxkjkr69",
     "dimensionsVisual": [
-      6.731128365800032e-08,
+      6.731128365800032e-8,
       0.8683764934539795,
       2.003481864929199
     ],
@@ -92863,7 +94087,7 @@
     "image": "images/structures_takistan/props/posters/staticobj_poster_01/staticobj_poster_01.jpg",
     "id": "dzobj_k1qau72giv",
     "dimensionsVisual": [
-      9.438682013751531e-08,
+      9.438682013751531e-8,
       1.4015659093856812,
       0.9618789553642273
     ],
@@ -105911,7 +107135,7 @@
     "id": "dzobj_5twnd4i7cd",
     "dimensionsVisual": [
       4.055499076843262,
-      3.0,
+      3,
       0.4000000059604645
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/walls/staticobj_wall_indcnc4_desert_4/staticobj_wall_indcnc4_desert_4.jpg"
@@ -115696,6 +116920,57 @@
     "imageUrl": "https://samsobjectfinder.com/images/plants_bliss/tree/t_fagussylvaticae_3f_summer.p3d.jpg"
   },
   {
+    "objectName": "t_ficusbenjamina_1s.p3d",
+    "inGameName": "t_ficusbenjamina_1s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/tree",
+    "usableOnConsole": false,
+    "searchTags": "ficusbenjamina, plants, takistan, tree, fig, weeping fig, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/tree/t_ficusbenjamina_1s/t_ficusbenjamina_1s.jpg",
+    "id": "dzobj_ph901d36ce",
+    "dimensionsVisual": [
+      8.713,
+      6.314,
+      8.728
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/tree/t_ficusbenjamina_1s/t_ficusbenjamina_1s.jpg"
+  },
+  {
+    "objectName": "t_ficusbenjamina_2d.p3d",
+    "inGameName": "t_ficusbenjamina_2d",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/tree",
+    "usableOnConsole": false,
+    "searchTags": "ficusbenjamina, plants, takistan, tree, fig, weeping fig, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/tree/t_ficusbenjamina_2d/t_ficusbenjamina_2d.jpg",
+    "id": "dzobj_s0aj13z76x",
+    "dimensionsVisual": [
+      10.395,
+      9.516,
+      9.247
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/tree/t_ficusbenjamina_2d/t_ficusbenjamina_2d.jpg"
+  },
+  {
+    "objectName": "t_ficusbenjamina_2s.p3d",
+    "inGameName": "t_ficusbenjamina_2s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/tree",
+    "usableOnConsole": false,
+    "searchTags": "ficusbenjamina, plants, takistan, tree, fig, weeping fig, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/tree/t_ficusbenjamina_2s/t_ficusbenjamina_2s.jpg",
+    "id": "dzobj_jh9n5jjr2f",
+    "dimensionsVisual": [
+      16.494,
+      10.714,
+      15.679
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/tree/t_ficusbenjamina_2s/t_ficusbenjamina_2s.jpg"
+  },
+  {
     "objectName": "t_fraxinusexcelsior_2f.p3d",
     "inGameName": "t_fraxinusexcelsior_2f.p3d",
     "category": "plants",
@@ -115713,6 +116988,23 @@
     "imageUrl": "https://samsobjectfinder.com/images/plants/tree/t_fraxinusexcelsior_2f.p3d.jpg"
   },
   {
+    "objectName": "t_fraxinusexcelsior_2s_spring.p3d",
+    "inGameName": "t_fraxinusexcelsior_2s_spring",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/tree",
+    "usableOnConsole": false,
+    "searchTags": "fraxinusexcelsior, spring, plants, takistan, tree, ash, common ash, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/tree/t_fraxinusexcelsior_2s_spring/t_fraxinusexcelsior_2s_spring.jpg",
+    "id": "dzobj_x9gfs2icnn",
+    "dimensionsVisual": [
+      12.497,
+      17.314,
+      11.77
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/tree/t_fraxinusexcelsior_2s_spring/t_fraxinusexcelsior_2s_spring.jpg"
+  },
+  {
     "objectName": "t_fraxinusexcelsior_2s.p3d",
     "inGameName": "t_fraxinusexcelsior_2s.p3d",
     "category": "plants",
@@ -115728,6 +117020,23 @@
       17.833831787109375
     ],
     "imageUrl": "https://samsobjectfinder.com/images/plants/tree/t_fraxinusexcelsior_2s.p3d.jpg"
+  },
+  {
+    "objectName": "t_fraxinusexcelsior_2w_spring.p3d",
+    "inGameName": "t_fraxinusexcelsior_2w_spring",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/tree",
+    "usableOnConsole": false,
+    "searchTags": "fraxinusexcelsior, spring, plants, takistan, tree, ash, common ash, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/tree/t_fraxinusexcelsior_2w_spring/t_fraxinusexcelsior_2w_spring.jpg",
+    "id": "dzobj_oo2so0javm",
+    "dimensionsVisual": [
+      11.57,
+      9.005,
+      10.463
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/tree/t_fraxinusexcelsior_2w_spring/t_fraxinusexcelsior_2w_spring.jpg"
   },
   {
     "objectName": "t_fraxinusexcelsior_2w.p3d",
@@ -116187,6 +117496,74 @@
       15.037271499633789
     ],
     "imageUrl": "https://samsobjectfinder.com/images/plants/tree/t_naked_2s.p3d.jpg"
+  },
+  {
+    "objectName": "t_oleaeuropaea_1s.p3d",
+    "inGameName": "t_oleaeuropaea_1s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/tree",
+    "usableOnConsole": false,
+    "searchTags": "oleaeuropaea, plants, takistan, tree, olive, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/tree/t_oleaeuropaea_1s/t_oleaeuropaea_1s.jpg",
+    "id": "dzobj_xfq9lixsxd",
+    "dimensionsVisual": [
+      12.94,
+      8.419,
+      13.048
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/tree/t_oleaeuropaea_1s/t_oleaeuropaea_1s.jpg"
+  },
+  {
+    "objectName": "t_oleaeuropaea_2s.p3d",
+    "inGameName": "t_oleaeuropaea_2s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/tree",
+    "usableOnConsole": false,
+    "searchTags": "oleaeuropaea, plants, takistan, tree, olive, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/tree/t_oleaeuropaea_2s/t_oleaeuropaea_2s.jpg",
+    "id": "dzobj_au7nhcerxm",
+    "dimensionsVisual": [
+      10.265,
+      11.497,
+      9.953
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/tree/t_oleaeuropaea_2s/t_oleaeuropaea_2s.jpg"
+  },
+  {
+    "objectName": "t_phoenixrupicola_1s.p3d",
+    "inGameName": "t_phoenixrupicola_1s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/tree",
+    "usableOnConsole": false,
+    "searchTags": "phoenixrupicola, plants, takistan, tree, palm, cliff date palm, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/tree/t_phoenixrupicola_1s/t_phoenixrupicola_1s.jpg",
+    "id": "dzobj_ku9odrmi03",
+    "dimensionsVisual": [
+      5.176,
+      7.464,
+      5.682
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/tree/t_phoenixrupicola_1s/t_phoenixrupicola_1s.jpg"
+  },
+  {
+    "objectName": "t_phoenixrupicola_3s.p3d",
+    "inGameName": "t_phoenixrupicola_3s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/tree",
+    "usableOnConsole": false,
+    "searchTags": "phoenixrupicola, plants, takistan, tree, palm, cliff date palm, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/tree/t_phoenixrupicola_3s/t_phoenixrupicola_3s.jpg",
+    "id": "dzobj_c5y0p0ejw8",
+    "dimensionsVisual": [
+      11.34,
+      12.201,
+      11.234
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/tree/t_phoenixrupicola_3s/t_phoenixrupicola_3s.jpg"
   },
   {
     "objectName": "t_piceaabies_1f_dark.p3d",
@@ -117130,6 +118507,57 @@
     "imageUrl": "https://samsobjectfinder.com/images/plants/tree/t_piceaabies_3s.p3d.jpg"
   },
   {
+    "objectName": "t_pinusbrutia_1s.p3d",
+    "inGameName": "t_pinusbrutia_1s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/tree",
+    "usableOnConsole": false,
+    "searchTags": "pinusbrutia, plants, takistan, tree, pine, calabrian pine, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/tree/t_pinusbrutia_1s/t_pinusbrutia_1s.jpg",
+    "id": "dzobj_61sx4isgdb",
+    "dimensionsVisual": [
+      6.325,
+      5.481,
+      6.881
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/tree/t_pinusbrutia_1s/t_pinusbrutia_1s.jpg"
+  },
+  {
+    "objectName": "t_pinusbrutia_2s.p3d",
+    "inGameName": "t_pinusbrutia_2s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/tree",
+    "usableOnConsole": false,
+    "searchTags": "pinusbrutia, plants, takistan, tree, pine, calabrian pine, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/tree/t_pinusbrutia_2s/t_pinusbrutia_2s.jpg",
+    "id": "dzobj_dxohcttff6",
+    "dimensionsVisual": [
+      12.384,
+      11.301,
+      10.513
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/tree/t_pinusbrutia_2s/t_pinusbrutia_2s.jpg"
+  },
+  {
+    "objectName": "t_pinusbrutia_2sb.p3d",
+    "inGameName": "t_pinusbrutia_2sb",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/tree",
+    "usableOnConsole": false,
+    "searchTags": "pinusbrutia, 2sb, plants, takistan, tree, pine, calabrian pine, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/tree/t_pinusbrutia_2sb/t_pinusbrutia_2sb.jpg",
+    "id": "dzobj_i0rzem42yi",
+    "dimensionsVisual": [
+      15.228,
+      12.051,
+      12.787
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/tree/t_pinusbrutia_2sb/t_pinusbrutia_2sb.jpg"
+  },
+  {
     "objectName": "t_pinussylvestris_1f_summer.p3d",
     "inGameName": "t_pinussylvestris_1f_summer.p3d",
     "category": "plants_bliss",
@@ -117504,6 +118932,40 @@
     "imageUrl": "https://samsobjectfinder.com/images/plants/tree/t_pinussylvestris_3s.p3d.jpg"
   },
   {
+    "objectName": "t_populus_2s.p3d",
+    "inGameName": "t_populus_2s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/tree",
+    "usableOnConsole": false,
+    "searchTags": "populus, plants, takistan, tree, poplar, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/tree/t_populus_2s/t_populus_2s.jpg",
+    "id": "dzobj_5unmi7vqmo",
+    "dimensionsVisual": [
+      10.182,
+      17.719,
+      10.013
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/tree/t_populus_2s/t_populus_2s.jpg"
+  },
+  {
+    "objectName": "t_populus_2sb.p3d",
+    "inGameName": "t_populus_2sb",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/tree",
+    "usableOnConsole": false,
+    "searchTags": "populus, 2sb, plants, takistan, tree, poplar, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/tree/t_populus_2sb/t_populus_2sb.jpg",
+    "id": "dzobj_12e27edvhp",
+    "dimensionsVisual": [
+      7.785,
+      13.753,
+      7.824
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/tree/t_populus_2sb/t_populus_2sb.jpg"
+  },
+  {
     "objectName": "t_populusalba_1f_latefall.p3d",
     "inGameName": "t_populusalba_1f_latefall.p3d",
     "category": "plants_sakhal",
@@ -117657,6 +119119,23 @@
     "imageUrl": "https://samsobjectfinder.com/images/plants_bliss/tree/t_populusnigra_3sb_summer.p3d.jpg"
   },
   {
+    "objectName": "t_prunusdomestica_1s.p3d",
+    "inGameName": "t_prunusdomestica_1s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/tree",
+    "usableOnConsole": false,
+    "searchTags": "prunusdomestica, plants, takistan, tree, cherry, plum, prunus domestica, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/tree/t_prunusdomestica_1s/t_prunusdomestica_1s.jpg",
+    "id": "dzobj_wgbicd64ku",
+    "dimensionsVisual": [
+      5.102,
+      6.476,
+      5.037
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/tree/t_prunusdomestica_1s/t_prunusdomestica_1s.jpg"
+  },
+  {
     "objectName": "t_prunusdomestica_2s.p3d",
     "inGameName": "t_prunusdomestica_2s.p3d",
     "category": "plants",
@@ -117672,6 +119151,23 @@
       7.455670595169067
     ],
     "imageUrl": "https://samsobjectfinder.com/images/plants/tree/t_prunusdomestica_2s.p3d.jpg"
+  },
+  {
+    "objectName": "t_prunusdomestica_2s.p3d",
+    "inGameName": "t_prunusdomestica_2s",
+    "category": "plants_takistan",
+    "modelType": "Raw P3D",
+    "path": "dz/plants_takistan/tree",
+    "usableOnConsole": false,
+    "searchTags": "prunusdomestica, plants, takistan, tree, cherry, plum, prunus domestica, v1.30-badlands, nasdara",
+    "image": "images/plants_takistan/tree/t_prunusdomestica_2s/t_prunusdomestica_2s.jpg",
+    "id": "dzobj_rla2o4dnx9",
+    "dimensionsVisual": [
+      7.48140025138855,
+      10.676430702209473,
+      7.455670595169067
+    ],
+    "imageUrl": "https://samsobjectfinder.com/images/plants_takistan/tree/t_prunusdomestica_2s/t_prunusdomestica_2s.jpg"
   },
   {
     "objectName": "t_pyruscommunis_2s_summer.p3d",
